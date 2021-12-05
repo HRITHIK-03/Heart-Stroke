@@ -2,7 +2,7 @@ According to the World Health Organization (WHO) stroke is the 2nd leading cause
 
 Here, we worked on various machine learning algorithms, some EDA , data cleaning etc. in order to determine the best fit model for our result , which is to be attained.
 
-Link to thr tableau Story -->  https://public.tableau.com/app/profile/hrithik.jagwani/viz/HeartStroke_16387388761440/StrokeandSmokingstatus?publish=yes
+Link to the tableau Story -->  https://public.tableau.com/app/profile/hrithik.jagwani/viz/HeartStroke_16387388761440/StrokeandSmokingstatus?publish=yes
 
 
 
